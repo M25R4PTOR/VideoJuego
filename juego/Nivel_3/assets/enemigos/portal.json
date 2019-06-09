@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "portal.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 476,
+				"h": 886
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "portal-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 310
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 160,
+						"h": 310
+					}
+				},
+				{
+					"filename": "portal-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 300
+					},
+					"frame": {
+						"x": 1,
+						"y": 313,
+						"w": 160,
+						"h": 300
+					}
+				},
+				{
+					"filename": "portal-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 270
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 270
+					},
+					"frame": {
+						"x": 1,
+						"y": 615,
+						"w": 150,
+						"h": 270
+					}
+				},
+				{
+					"filename": "portal-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 305
+					},
+					"frame": {
+						"x": 163,
+						"y": 1,
+						"w": 155,
+						"h": 305
+					}
+				},
+				{
+					"filename": "portal-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 300
+					},
+					"frame": {
+						"x": 163,
+						"y": 308,
+						"w": 160,
+						"h": 300
+					}
+				},
+				{
+					"filename": "portal-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 295
+					},
+					"frame": {
+						"x": 320,
+						"y": 1,
+						"w": 155,
+						"h": 295
+					}
+				},
+				{
+					"filename": "portal-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 275
+					},
+					"frame": {
+						"x": 163,
+						"y": 610,
+						"w": 155,
+						"h": 275
+					}
+				},
+				{
+					"filename": "portal-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 280
+					},
+					"frame": {
+						"x": 325,
+						"y": 298,
+						"w": 145,
+						"h": 280
+					}
+				},
+				{
+					"filename": "portal-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 280
+					},
+					"frame": {
+						"x": 325,
+						"y": 580,
+						"w": 145,
+						"h": 280
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1f0a3c32301473f4f7a8bdfe2b31ed88:809e9a8a240cdd8ec2c0b94044bf72d8:3b79c46182e6baa2a6b599ce58bd77b1$"
+	}
+}

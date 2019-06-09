@@ -1,0 +1,220 @@
+{
+	"textures": [
+		{
+			"image": "calavera.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 250,
+				"h": 252
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "calavera-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 8,
+						"w": 89,
+						"h": 100
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 89,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.46875,
+						"y": 0.5982142857142857
+					}
+				},
+				{
+					"filename": "calavera-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 19,
+						"w": 82,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 103,
+						"w": 82,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.4791666666666667,
+						"y": 0.6160714285714286
+					}
+				},
+				{
+					"filename": "calavera-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 23,
+						"w": 85,
+						"h": 86
+					},
+					"frame": {
+						"x": 92,
+						"y": 1,
+						"w": 85,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.46875,
+						"y": 0.6517857142857143
+					}
+				},
+				{
+					"filename": "calavera-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 25,
+						"w": 70,
+						"h": 80
+					},
+					"frame": {
+						"x": 179,
+						"y": 1,
+						"w": 70,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.4583333333333333,
+						"y": 0.6339285714285714
+					}
+				},
+				{
+					"filename": "calavera-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 26,
+						"w": 89,
+						"h": 80
+					},
+					"frame": {
+						"x": 92,
+						"y": 89,
+						"w": 89,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.4791666666666667,
+						"y": 0.6160714285714286
+					}
+				},
+				{
+					"filename": "calavera-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 28,
+						"w": 79,
+						"h": 80
+					},
+					"frame": {
+						"x": 85,
+						"y": 171,
+						"w": 79,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.4583333333333333,
+						"y": 0.6339285714285714
+					}
+				},
+				{
+					"filename": "calavera-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 25,
+						"w": 75,
+						"h": 80
+					},
+					"frame": {
+						"x": 166,
+						"y": 171,
+						"w": 75,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.46875,
+						"y": 0.6160714285714286
+					}
+				},
+				{
+					"filename": "calavera-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 30,
+						"w": 61,
+						"h": 79
+					},
+					"frame": {
+						"x": 183,
+						"y": 83,
+						"w": 61,
+						"h": 79
+					},
+					"anchor": {
+						"x": 0.4791666666666667,
+						"y": 0.6160714285714286
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a01d93a25d554cb09bfaf5b8581f020a:671ad9d44377fccf52f42edad5f32ac7:6626db54088f37277159c2d2c104a349$"
+	}
+}
