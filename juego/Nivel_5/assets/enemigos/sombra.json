@@ -1,0 +1,470 @@
+{
+	"textures": [
+		{
+			"image": "sombra.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 492,
+				"h": 125
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sombra-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 80,
+						"h": 68
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 80,
+						"h": 68
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "sombra-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 80,
+						"h": 67
+					},
+					"frame": {
+						"x": 83,
+						"y": 1,
+						"w": 80,
+						"h": 67
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "sombra-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 80,
+						"h": 67
+					},
+					"frame": {
+						"x": 165,
+						"y": 1,
+						"w": 80,
+						"h": 67
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "sombra-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 80,
+						"h": 67
+					},
+					"frame": {
+						"x": 247,
+						"y": 1,
+						"w": 80,
+						"h": 67
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "sombra-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 80,
+						"h": 67
+					},
+					"frame": {
+						"x": 329,
+						"y": 1,
+						"w": 80,
+						"h": 67
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "sombra-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 80,
+						"h": 63
+					},
+					"frame": {
+						"x": 411,
+						"y": 1,
+						"w": 80,
+						"h": 63
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "sombra-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 12,
+						"w": 79,
+						"h": 58
+					},
+					"frame": {
+						"x": 411,
+						"y": 66,
+						"w": 79,
+						"h": 58
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5428571428571428
+					}
+				},
+				{
+					"filename": "sombra-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 21,
+						"w": 74,
+						"h": 49
+					},
+					"frame": {
+						"x": 83,
+						"y": 70,
+						"w": 74,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6428571428571429
+					}
+				},
+				{
+					"filename": "sombra-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 26,
+						"w": 70,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 71,
+						"w": 70,
+						"h": 44
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.7
+					}
+				},
+				{
+					"filename": "sombra-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 63,
+						"w": 70,
+						"h": 7
+					},
+					"frame": {
+						"x": 1,
+						"y": 117,
+						"w": 70,
+						"h": 7
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.9285714285714286
+					}
+				},
+				{
+					"filename": "sombra-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 31,
+						"w": 70,
+						"h": 39
+					},
+					"frame": {
+						"x": 159,
+						"y": 70,
+						"w": 70,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.68571429
+					}
+				},
+				{
+					"filename": "sombra-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 38,
+						"w": 70,
+						"h": 32
+					},
+					"frame": {
+						"x": 231,
+						"y": 70,
+						"w": 70,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.7428571428571429
+					}
+				},
+				{
+					"filename": "sombra-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 44,
+						"w": 70,
+						"h": 26
+					},
+					"frame": {
+						"x": 303,
+						"y": 70,
+						"w": 70,
+						"h": 26
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.8142857142857143
+					}
+				},
+				{
+					"filename": "sombra-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 52,
+						"w": 70,
+						"h": 18
+					},
+					"frame": {
+						"x": 303,
+						"y": 98,
+						"w": 70,
+						"h": 18
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.9285714285714286
+					}
+				},
+				{
+					"filename": "sombra-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 63,
+						"w": 60,
+						"h": 7
+					},
+					"frame": {
+						"x": 231,
+						"y": 104,
+						"w": 60,
+						"h": 7
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.9285714285714286
+					}
+				},
+				{
+					"filename": "sombra-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 63,
+						"w": 48,
+						"h": 7
+					},
+					"frame": {
+						"x": 159,
+						"y": 111,
+						"w": 48,
+						"h": 7
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.9285714285714286
+					}
+				},
+				{
+					"filename": "sombra-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 64,
+						"w": 25,
+						"h": 6
+					},
+					"frame": {
+						"x": 375,
+						"y": 70,
+						"w": 25,
+						"h": 6
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.92857143
+					}
+				},
+				{
+					"filename": "sombra-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 63,
+						"w": 35,
+						"h": 7
+					},
+					"frame": {
+						"x": 209,
+						"y": 113,
+						"w": 35,
+						"h": 7
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.9285714285714286
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c995501bc2b8af8d65fed2960378dc11:1f2f85b9681b2e805fb46702b6872cd3:568144b12fec326a4540addb8dd6a86e$"
+	}
+}
